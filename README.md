@@ -17,3 +17,8 @@ simple keyboard jog control. Just start the script and start jogging. Theres som
 ## huenit_teach_replay.py
 
 fast way of teaching robot movements by physically moving the robot joints, recording each position by pressing 'c' on the keyboard. You can then replay all recorded movements by pressing 'enter'. Records can be saved to a file and loaded from there.
+
+
+## More Information
+
+... can be found here: https://hackaday.io/project/204061-getting-to-know-huenit
